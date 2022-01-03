@@ -1,1 +1,3 @@
 testing git add and commit on atomic level
+
+adding line 2
